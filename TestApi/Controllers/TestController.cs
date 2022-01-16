@@ -12,7 +12,7 @@ using IOperationFilter = Swashbuckle.Swagger.IOperationFilter;
 namespace TestApi.Controllers
 {
     [ApiVersion("1.0")]
-    [Route("api/test")]
+    [Route("api/test123")]
     [ApiController]
     public class TestController : ControllerBase
     {
