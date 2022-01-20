@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'SounakWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D57FB6FAE85444D9BD1919F6D43D0816 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17DC6C22969441B6BFDB80A2C1C3D8A4 }}
           package: .
